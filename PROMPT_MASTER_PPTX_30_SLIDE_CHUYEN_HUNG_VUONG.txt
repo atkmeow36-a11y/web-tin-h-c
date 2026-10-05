@@ -1,0 +1,546 @@
+# PROMPT TẠO POWERPOINT 30 SLIDE
+## TRƯỜNG THPT CHUYÊN HÙNG VƯƠNG
+
+Hãy tạo một bài thuyết trình PowerPoint hoàn chỉnh gồm ĐÚNG 30 SLIDE về:
+
+# TRƯỜNG THPT CHUYÊN HÙNG VƯƠNG
+
+Bài thuyết trình phải dựa trên toàn bộ nội dung trong tài liệu nguồn được cung cấp, ưu tiên thông tin từ nguồn chính thức của nhà trường và cơ quan giáo dục.
+
+Mục tiêu: tạo một bài PowerPoint hiện đại – học thuật – chuyên nghiệp – trực quan – có chiều sâu nội dung chi tiết, phù hợp để nhóm học sinh trình bày ấn tượng trước lớp và hội đồng chấm thi.
+
+---
+
+# I. YÊU CẦU TỔNG THỂ
+
+- ĐÚNG 30 SLIDE, không hơn, không ít.
+- Tỷ lệ khung hình chuẩn Widescreen 16:9.
+- Thiết kế hiện đại, sạch, sang trọng, đẳng cấp học thuật.
+- Nội dung mỗi slide phải được trình bày chi tiết, có chiều sâu, lập luận chặt chẽ, đầy đủ dẫn chứng và phân tích số liệu, không viết quá ngắn hay cộc lốc.
+- Không biến slide thành tài liệu Word đơn điệu: ưu tiên kết hợp các khối hộp thông tin (Cards/Containers), timeline, biểu đồ so sánh, infographic, sơ đồ phân cấp và sơ đồ tư duy (Mind Map).
+- Mỗi slide đều có footer chuẩn: `Báo cáo & Thuyết trình Tổng quan THPT Chuyên Hùng Vương | Đơn vị thực hiện: Nhóm Lớp 9A12 • Slide X/30`.
+- Các số liệu thống kê phải chuẩn xác 100%, ghi rõ năm, đơn vị tính và trích dẫn văn bản pháp lý ban hành.
+
+## Phong cách hình ảnh và màu sắc
+
+Ưu tiên phong cách:
+Academic / Modern / Premium / Clean / Educational / Data-Driven
+
+Bảng màu nhận diện thương hiệu trường:
+- Nền chủ đạo: Màu Navy đậm quý phái (`#0B2545`) cho bìa/kết luận, và nền sáng thanh lịch (`#F8FAFC`) cho các slide nội dung.
+- Màu nhấn (Accent Colors): Xanh dương học thuật (`#134074`), Xanh Royal (`#0077B6`), Cyan công nghệ (`#00B4D8`) và Vàng ánh kim xuất sắc (`#EE9B00`).
+- Màu chữ: Độ tương phản cao, sắc nét, dễ đọc rõ ràng từ khoảng cách xa trong hội trường.
+
+Không sử dụng:
+- Thiết kế trẻ con, sticker hoạt họa rườm rà;
+- Emoji quá mức làm giảm tính học thuật;
+- Hiệu ứng chuyển động rối mắt;
+- Font chữ uốn lượn khó đọc;
+- Nền quá nhiều hoa văn che lấp nội dung.
+
+---
+
+# II. QUY TẮC CỰC KỲ QUAN TRỌNG VỀ HÌNH ẢNH
+
+## ẢNH TRƯỜNG PHẢI LÀ ẢNH THẬT 100%
+
+Đây là yêu cầu BẮT BUỘC KHÔNG THAY ĐỔI.
+
+Tất cả hình ảnh liên quan trực tiếp đến THPT Chuyên Hùng Vương phải là ẢNH THẬT, không được để AI tự vẽ hoặc dựng lại hình ảnh giả mạo.
+
+Ưu tiên ảnh chụp thực tế từ website chính thức của nhà trường:
+https://thptchv.edu.vn/
+
+Các vị trí cần hình ảnh thật:
+- Cổng trường, biển tên trường và mặt tiền đường 593 Đại lộ Bình Dương;
+- Toàn cảnh khuôn viên sân trường rợp bóng mát, các dãy phòng học;
+- Hệ thống phòng thí nghiệm Lý - Hóa - Sinh, phòng máy vi tính, thư viện;
+- Thầy cô giáo trong các buổi lễ kỷ niệm, học sinh trong trang phục truyền thống;
+- Hoạt động sáng chế STEM (Máy phun sát khuẩn tự động), các cuộc thi học sinh giỏi, phong trào ngoại khóa.
+
+### Quy tắc khung ảnh giữ chỗ (Photo Placeholder):
+Nếu chưa có ảnh sẵn, tạo một khung hình chữ nhật trang nhã có bo góc với nội dung:
+`📷 [Ảnh Thật: Tên mô tả ảnh thực tế] (Nhấp chuột phải -> Change Picture để chèn ảnh thực tế)`
+Credit nguồn nhỏ ở góc dưới: `Ảnh: THPT Chuyên Hùng Vương – thptchv.edu.vn`.
+
+---
+
+# III. CHI TIẾT NỘI DUNG ĐẦY ĐỦ 30 SLIDE (BÁM SÁT 100% DỮ LIỆU BÁO CÁO NHÓM LỚP 9A12)
+
+---
+
+## SLIDE 1 — TRANG BÌA (COVER SLIDE)
+
+- **Tiêu đề lớn:** TRƯỜNG THPT CHUYÊN HÙNG VƯƠNG
+- **Tiêu đề phụ:** BÁO CÁO GIỚI THIỆU TỔNG QUAN & ĐỊNH HƯỚNG TUYỂN SINH
+- **Chủ đề xuyên suốt:** Hành trình 30 năm phát triển (1996 – 2026) | Quy mô – Đội ngũ – Cơ sở vật chất – Bảng vàng Thành tích – Hệ thống Tuyển sinh & Môi trường Giáo dục toàn diện.
+- **Đơn vị thực hiện:** NHÓM HỌC SINH LỚP 9A12
+- **Danh sách 6 thành viên nghiên cứu:**
+  1. Trần Nguyễn Bảo Linh (9A12)
+  2. Nguyễn Lê Xuân Hương (9A12)
+  3. Hà Kỳ Nhiệm (9A12)
+  4. Nguyễn Hoàng Minh Tuấn (9A12)
+  5. Trần Huỳnh Minh Thư (9A12)
+  6. Đoàn Vương Bảo Ngọc (9A12)
+- **Địa chỉ trụ sở chính thức:** Số 593 Đại lộ Bình Dương, Phường Thủ Dầu Một, TP. Hồ Chí Minh
+- **Năm học báo cáo & thuyết trình:** 2024–2025 | 2025–2026 | 2026–2027
+- **Bố cục thiết kế:** Nền Dark Navy sang trọng, phối thẻ thông tin màu xanh Royal viền Cyan, làm nổi bật logo trường và thông tin nhóm tác giả.
+
+---
+
+## SLIDE 2 — MỤC LỤC TỔNG QUAN DẠNG SƠ ĐỒ TƯ DUY (MIND MAP)
+
+KHÔNG dùng danh sách gạch đầu dòng dọc thông thường. Biến toàn bộ slide thành một sơ đồ tư duy đa nhánh (Mind Map):
+
+- **Node Trung tâm:** **THPT CHUYÊN HÙNG VƯƠNG** (Đặt ở chính giữa với hiệu ứng nhận diện nổi bật).
+- **7 Nhánh phát triển vươn tỏa ra xung quanh:**
+  1. 🏛️ **Nhánh 1: Giới thiệu & Lịch sử (Slide 3–7):** Lịch sử 30 năm (1996–2026), Quyết định thành lập số 4757, Sứ mệnh toàn diện, Tầm nhìn Top 20 cả nước đến năm 2030 và Hệ giá trị cốt lõi.
+  2. 👥 **Nhánh 2: Quy mô & Đội ngũ (Slide 8–10):** Quy mô 930 học sinh, 28 lớp chuyên, 92 cán bộ giáo viên nhân viên (53 đảng viên), Sơ đồ bộ máy 10 tổ công tác và tổ chức đoàn thể.
+  3. 🔬 **Nhánh 3: Cơ sở vật chất & STEM (Slide 11–12):** Khuôn viên 593 Đại lộ Bình Dương, hệ thống phòng thí nghiệm đạt chuẩn, phòng Tin học hiện đại, thư viện chuẩn và Không gian sáng chế STEM với máy phun sát khuẩn tự động.
+  4. 🏆 **Nhánh 4: Bảng vàng Thành tích (Slide 13–16):** Huân chương Lao động Hạng Ba, 2 lần Cờ thi đua Thủ tướng Chính phủ, Tốt nghiệp THPT 2026 đạt 14 điểm 10 tuyệt đối, điểm trung bình các môn chuyên dẫn đầu và Bảng vinh danh thủ khoa 7 khối thi đại học.
+  5. 📊 **Nhánh 5: Tổng quan Tuyển sinh (Slide 17–24):** Cơ chế tính điểm, Bảng điểm chuẩn và chỉ tiêu 3 năm liên tiếp (2024–2026), Đề án Tiếng Anh 5695 và Chuyên đề Kiểm chứng dữ liệu khoa học (Data Verification).
+  6. 🌟 **Nhánh 6: Môi trường & GDPT 2018 (Slide 25–28):** Văn hóa học tập tích cực, phong trào ngoại khóa quốc tế (Asia Youth Leaders Nhật Bản, EIU Contest, Dự án cộng đồng Athena), Cấu trúc GDPT 2018 và Định hướng chọn tổ hợp môn thi ĐH.
+  7. 🎯 **Nhánh 7: Kết luận & Tương tác (Slide 29–30):** Tổng kết 5 trụ cột phát triển, Trò chơi tương tác Minigame đố vui có thưởng dành cho cả lớp, Lời cảm ơn và Tài liệu tham khảo chính thức.
+
+---
+
+## SLIDE 3 — HÀNH TRÌNH PHÁT TRIỂN 30 NĂM (TIMELINE 1995 – 2026)
+
+- **Tiêu đề:** HÀNH TRÌNH PHÁT TRIỂN 30 NĂM (TIMELINE 1995 – 2026)
+- **Nội dung diễn giải chi tiết:**
+  - Ba thập kỷ kiên định sứ mệnh ươm mầm tài năng: Từ những ngày đầu thành lập còn nhiều khó khăn, nhà trường đã vươn lên khẳng định vị thế lá cờ đầu của ngành giáo dục mũi nhọn địa phương.
+  - Niên biểu 7 dấu mốc lịch sử cốt lõi:
+    + **23/10/1995:** UBND tỉnh Sông Bé ban hành Quyết định số 4757/QĐ-UB chính thức khai sinh trường.
+    + **24/04/1996:** Trường chính thức đi vào hoạt động giảng dạy, đón khóa học sinh chuyên đầu tiên.
+    + **Năm 2005:** Ngôi trường THPT đầu tiên của tỉnh Bình Dương được công nhận đạt Chuẩn Quốc gia.
+    + **Năm 2011:** Đạt chuẩn Kiểm định Chất lượng Giáo dục Cấp độ 3 (cấp độ cao nhất).
+    + **Năm 2018:** Vinh dự đón nhận Cờ thi đua xuất sắc của Thủ tướng Chính phủ (lần 2).
+    + **Năm 2020:** Chủ tịch nước trao tặng Huân chương Lao động Hạng Ba cao quý.
+    + **Năm 2026:** Kỷ niệm tròn 30 năm thành lập trường (1996–2026) theo Kế hoạch 111/KH-THPTCHV ngày 12/03/2026.
+- **Hình ảnh đồ họa:** Trục thời gian ngang (Horizontal Timeline) liên tục với các trạm mốc so le trên/dưới.
+
+---
+
+## SLIDE 4 — QUYẾT ĐỊNH THÀNH LẬP & BỐI CẢNH HÌNH THÀNH TRƯỜNG
+
+- **Tiêu đề:** QUYẾT ĐỊNH THÀNH LẬP & BỐI CẢNH HÌNH THÀNH TRƯỜNG
+- **Nội dung phân tích chuyên sâu:**
+  - **Cơ sở pháp lý khai sinh:** Căn cứ theo Quyết định số 4757/QĐ-UB ngày 23/10/1995 do UBND tỉnh Sông Bé ban hành, đánh dấu bước ngoặt chiến lược trong quy hoạch giáo dục trọng điểm của tỉnh.
+  - **Ngày khai giảng lịch sử:** Ngày 24/04/1996, trường chính thức đi vào hoạt động giảng dạy, mở đầu trang sử đào tạo các thế hệ học sinh ưu tú.
+  - **Sứ mệnh được giao phó:** Tuyển chọn, đào tạo và bồi dưỡng học sinh có năng khiếu đặc biệt, xây dựng đội ngũ trí thức tương lai phục vụ sự nghiệp công nghiệp hóa, hiện đại hóa quê hương và đất nước.
+  - **Cơ quan chủ quản & Vị trí địa lý:** Trực thuộc Sở Giáo dục và Đào tạo TP. Hồ Chí Minh / Bình Dương; tọa lạc tại số 593 Đại lộ Bình Dương, Phường Thủ Dầu Một.
+- **Bố cục:** Cột trái trình bày văn bản pháp lý; Cột phải bố trí khung hình ảnh thật: `📷 [Ảnh Thật: Lễ Khai giảng khóa đầu tiên hoặc Cổng trường Chuyên Hùng Vương]`.
+
+---
+
+## SLIDE 5 — CÁC MỐC DANH HIỆU THI ĐUA VÀ KIỂM ĐỊNH CHẤT LƯỢNG
+
+- **Tiêu đề:** CÁC MỐC DANH HIỆU THI ĐUA VÀ KIỂM ĐỊNH CHẤT LƯỢNG
+- **Chi tiết 5 danh hiệu cao quý qua các thời kỳ:**
+  1. **Năm 2005 — Đạt Chuẩn Quốc gia giai đoạn 2001–2010:** Khẳng định chất lượng cơ sở vật chất và sư phạm, là trường THPT tiên phong của tỉnh đạt chuẩn này.
+  2. **Năm 2011 — Đạt Kiểm định Chất lượng Cấp độ 3:** Đạt mức kiểm định tối đa theo tiêu chuẩn của Bộ GD&ĐT, duy trì vững chắc qua mọi chu kỳ đánh giá ngoài.
+  3. **Năm 2018 — Cờ Thi đua của Thủ tướng Chính phủ:** Lần thứ 2 nhận phần thưởng danh giá ghi nhận thành tích xuất sắc dẫn đầu phong trào dạy tốt - học tốt toàn quốc.
+  4. **Năm 2020 — Huân chương Lao động Hạng Ba:** Phần thưởng cao quý do Chủ tịch nước ký quyết định trao tặng vì những cống hiến to lớn cho sự nghiệp giáo dục.
+  5. **Năm 2026 — Dấu ấn Kỷ niệm 30 năm:** Tổng kết chặng đường vẻ vang (1996–2026), mở ra giai đoạn phát triển bứt phá hội nhập quốc tế.
+- **Layout:** Thiết kế 5 thẻ thông tin (Badges) trang trọng với biểu tượng huân chương và viền vàng.
+
+---
+
+## SLIDE 6 — SỨ MỆNH CỦA TRƯỜNG THPT CHUYÊN HÙNG VƯƠNG
+
+- **Tiêu đề:** SỨ MỆNH CỦA TRƯỜNG THPT CHUYÊN HÙNG VƯƠNG
+- **5 Trụ cột sứ mệnh giáo dục toàn diện:**
+  1. **Tạo lập Môi trường Học tập Tích cực:** Xây dựng không gian sư phạm thân thiện, dân chủ, khơi dậy tinh thần tự học và phát huy tối đa tư chất thông minh của từng cá nhân.
+  2. **Rèn luyện Phẩm chất & Kỹ năng Sống:** Chú trọng giáo dục đạo đức, tính kỷ luật, tư duy phản biện, kỹ năng làm việc nhóm và khát vọng học tập suốt đời.
+  3. **Đào tạo Nhân tài Mũi nhọn:** Tuyển chọn và bồi dưỡng các đội tuyển học sinh giỏi quốc gia, tạo nguồn nhân lực chất lượng cao phục vụ các ngành khoa học trọng điểm.
+  4. **Thúc đẩy Nghiên cứu Khoa học & STEM:** Hướng dẫn học sinh tiếp cận phương pháp nghiên cứu thực nghiệm, giải quyết các bài toán kỹ thuật từ thực tiễn đời sống.
+  5. **Hợp tác Giáo dục & Hội nhập Quốc tế:** Liên kết với các trường đại học, viện nghiên cứu và tổ chức quốc tế để trang bị hành trang du học và hội nhập toàn cầu cho học sinh.
+- **Layout:** 5 Khối hộp đối xứng với icon biểu trưng rõ ràng cho từng trụ cột.
+
+---
+
+## SLIDE 7 — TẦM NHÌN ĐẾN NĂM 2030 VÀ GIÁ TRỊ CỐT LÕI
+
+- **Tiêu đề:** TẦM NHÌN ĐẾN NĂM 2030 VÀ GIÁ TRỊ CỐT LÕI
+- **Tầm nhìn Chiến lược 2030:**
+  - Phấn đấu đến năm 2030, Trường THPT Chuyên Hùng Vương là cơ sở giáo dục nằm trong **TOP 20 TRƯỜNG THPT CÓ CHẤT LƯỢNG CAO NHẤT CẢ NƯỚC**.
+  - Đào tạo thế hệ học sinh "vừa hồng vừa chuyên", đạt thành tích xuất sắc tại các kỳ thi Học sinh giỏi Quốc gia, Olympic Quốc tế, Kỳ thi Tốt nghiệp THPT và xét tuyển vào các trường đại học danh giá hàng đầu thế giới.
+- **Hệ Giá trị Cốt lõi & Triết lý Giáo dục:**
+  - 🤝 **ĐOÀN KẾT VÀ HỢP TÁC:** Sức mạnh của tình thầy trò, sự đồng hành giữa nhà trường - gia đình - xã hội vì mục tiêu chung.
+  - 💡 **TRUNG THỰC VÀ THÂN THIỆN:** Coi trọng sự liêm chính trong học thuật, lối sống văn minh, chân thành và tôn trọng mọi sự khác biệt.
+  - 🚀 **SÁNG TẠO VÀ HỘI NHẬP:** Tư duy không ngừng đổi mới, dám nghĩ dám làm, tự tin mang bản sắc Việt bước ra thế giới.
+- **Layout:** Phân chia thành 2 phần rõ rệt: Banner Tầm nhìn 2030 ở trên và 3 Thẻ Giá trị Cốt lõi ở dưới.
+
+---
+
+## SLIDE 8 — QUY MÔ HỌC SINH VÀ CƠ CẤU LỚP CHUYÊN NHÀ TRƯỜNG
+
+- **Tiêu đề:** QUY MÔ HỌC SINH VÀ CƠ CẤU LỚP CHUYÊN NHÀ TRƯỜNG
+- **Thống kê Quy mô Giáo dục Lớn (Big Numbers):**
+  - **930 Học sinh:** Toàn trường quy tụ gần 1.000 học sinh xuất sắc được tuyển chọn kỹ lưỡng.
+  - **28 Lớp Chuyên:** Được tổ chức đồng bộ ở cả 3 khối lớp 10, 11 và 12.
+  - **09 Môn Chuyên Truyền thống:** Toán, Vật lý, Hóa học, Sinh học, Tin học, Ngữ văn, Lịch sử, Địa lý, Tiếng Anh.
+  - **>300 Học sinh Tuyển mới:** Chỉ tiêu tuyển sinh hàng năm vào Khối 10 với tỷ lệ chọi đầy thách thức.
+  - **Địa bàn Tuyển sinh rộng lớn:** Đào tạo học sinh tài năng trên địa bàn TP. Hồ Chí Minh và Bình Dương.
+- **Hình ảnh đi kèm:** Khung `📷 [Ảnh Thật: Học sinh THPT Chuyên Hùng Vương trong giờ học / Lễ Khai giảng]`.
+
+---
+
+## SLIDE 9 — ĐỘI NGŨ CÁN BỘ, GIÁO VIÊN VÀ NHÂN VIÊN
+
+- **Tiêu đề:** ĐỘI NGŨ CÁN BỘ, GIÁO VIÊN VÀ NHÂN VIÊN
+- **Năng lực Sư phạm & Cơ cấu Nhân sự:**
+  - **92 Cán bộ, Giáo viên, Nhân viên (CBGVNV):** 100% giáo viên đạt chuẩn và trên chuẩn, có tỷ lệ cao Thạc sĩ, Tiến sĩ và Giáo viên dạy giỏi cấp tỉnh/thành phố.
+  - **53 Đảng viên Chi bộ Đảng:** Chi bộ Đảng nhà trường giữ vai trò lãnh đạo hạt nhân chính trị toàn diện, định hướng đường lối phát triển bền vững.
+  - **92 Công đoàn viên Công đoàn Cơ sở:** Tập thể công đoàn viên gắn bó, phát động nhiều phong trào thi đua dạy tốt - học tốt và chăm lo đời sống giáo viên.
+  - **Năng lực Bồi dưỡng Đỉnh cao:** Đội ngũ chuyên gia giàu kinh nghiệm, nhiều năm trực tiếp phụ trách các đội tuyển tham dự kỳ thi Học sinh giỏi Quốc gia và quốc tế.
+- **Hình ảnh đi kèm:** Khung `📷 [Ảnh Thật: Tập thể Cán bộ Giáo viên Nhà trường THPT Chuyên Hùng Vương]`.
+
+---
+
+## SLIDE 10 — CƠ CẤU TỔ CHỨC VÀ SƠ ĐỒ BỘ MÁY QUẢN LÝ
+
+- **Tiêu đề:** CƠ CẤU TỔ CHỨC VÀ SƠ ĐỒ BỘ MÁY QUẢN LÝ (ORGANIZATIONAL CHART)
+- **Sơ đồ phân cấp bộ máy quản lý:**
+  - **Cấp Lãnh đạo cao nhất:** Chi bộ Đảng (53 Đảng viên) phối hợp chặt chẽ cùng Ban Giám hiệu nhà trường.
+  - **Hệ thống 10 Tổ Công tác:**
+    + **09 Tổ Chuyên môn:** Tổ Toán, Tổ Vật lý, Tổ Hóa học, Tổ Sinh học, Tổ Tin học, Tổ Ngữ văn, Tổ Lịch sử, Tổ Địa lý, Tổ Tiếng Anh.
+    + **01 Tổ Văn phòng:** Đảm trách công tác hành chính, tài chính, giáo vụ, y tế và phục vụ hậu cần.
+  - **Tổ chức Đoàn thể & Xã hội:** Công đoàn cơ sở, Hội Khuyến học, Ban đại diện Cha mẹ học sinh.
+  - **Đoàn TNCS Hồ Chí Minh:** Gồm 01 Chi đoàn Giáo viên và 28 Chi đoàn Học sinh với hơn 900 đoàn viên thanh niên sôi nổi, xung kích.
+- **Layout:** Sơ đồ hình cây (Hierarchy Tree Chart) thể hiện sự gắn kết và tính kỷ cương của bộ máy.
+
+---
+
+## SLIDE 11 — CƠ SỞ VẬT CHẤT VÀ KHUÔN VIÊN NHÀ TRƯỜNG
+
+- **Tiêu đề:** CƠ SỞ VẬT CHẤT VÀ KHUÔN VIÊN NHÀ TRƯỜNG
+- **Hệ thống trang thiết bị dạy học hiện đại:**
+  - **Vị trí & Khuôn viên:** Tọa lạc tại số 593 Đại lộ Bình Dương, Phường Thủ Dầu Một; sở hữu không gian học đường xanh - sạch - đẹp, an toàn và văn minh.
+  - **Hệ thống Phòng học Lý thuyết:** Đầy đủ máy chiếu tương tác, màn hình LED, điều hòa không khí, bàn ghế tiêu chuẩn và kết nối Internet tốc độ cao.
+  - **Phòng Thí nghiệm Chuyên dùng:** Phòng Thực hành Vật lý, Hóa học, Sinh học trang bị máy móc đo lường độ chính xác cao và hóa chất đạt chuẩn an toàn phòng thí nghiệm.
+  - **Phòng Tin học Chuyên biệt:** Trang bị dàn máy tính vi xử lý mạnh mẽ, màn hình chất lượng cao phục vụ các bài toán thuật toán và lập trình ứng dụng.
+  - **Thư viện Chuẩn Quốc gia:** Kho học liệu phong phú gồm hàng ngàn đầu sách tham khảo chuyên sâu, tạp chí khoa học và hệ thống thư viện điện tử tra cứu trực tuyến.
+- **Hình ảnh đi kèm:** Khung `📷 [Ảnh Thật: Mặt tiền Cổng trường / Sân trường / Dãy phòng học]`.
+
+---
+
+## SLIDE 12 — NGHIÊN CỨU KHOA HỌC & GIÁO DỤC STEM
+
+- **Tiêu đề:** NGHIÊN CỨU KHOA HỌC & GIÁO DỤC STEM
+- **Sản phẩm sáng tạo & Hoạt động thực nghiệm:**
+  - **Không gian Sáng chế STEM:** Môi trường mở giúp học sinh thỏa sức thử nghiệm các ý tưởng công nghệ, trí tuệ nhân tạo (AI), IoT và tự động hóa.
+  - **DỰ ÁN NỔI BẬT TIÊU BIỂU:** *"Thiết kế máy phun sát khuẩn tay tự động"* — Dự án nghiên cứu ứng dụng cảm biến quang học do học sinh chuyên Hùng Vương tự tay lập trình, thiết kế mạch và chế tạo, phục vụ thiết thực công tác phòng dịch trong nhà trường.
+  - **Sân chơi Sáng tạo KHKT:** Học sinh liên tục gặt hái giải thưởng cao trong các Cuộc thi Khoa học Kỹ thuật (KHKT) cấp tỉnh và toàn quốc.
+- **Hình ảnh đi kèm:** Khung `📷 [Ảnh Thật: Học sinh làm thực hành STEM / Máy sát khuẩn tự động]`.
+
+---
+
+## SLIDE 13 — THÀNH TÍCH ĐÀO TẠO MŨI NHỌN & THI MÔN CHUYÊN
+
+- **Tiêu đề:** THÀNH TÍCH ĐÀO TẠO MŨI NHỌN & THI MÔN CHUYÊN
+- **Kết quả đào tạo học sinh giỏi các cấp:**
+  - **Học sinh giỏi Quốc gia:** Duy trì số lượng và chất lượng giải thưởng thuộc nhóm đầu; các môn thế mạnh truyền thống gồm Toán, Hóa, Sinh, Tin học và Ngoại ngữ.
+  - **Olympic Quốc tế & Khu vực:** Tự hào có học sinh được tuyển chọn vào Đội tuyển Quốc gia tham gia tranh tài tại các kỳ thi Olympic Quốc tế danh giá.
+  - **Tỷ lệ Tốt nghiệp & Đại học 100%:** 100% học sinh đỗ tốt nghiệp THPT và trúng tuyển vào các trường đại học tốp đầu như ĐH Bách Khoa, ĐH Y Dược, ĐH Ngoại thương, ĐH Quốc gia...
+  - **Lá cờ đầu ngành Giáo dục:** Liên tục nhận Cờ thi đua của Bộ Giáo dục & Đào tạo trong phong trào "Đổi mới sáng tạo trong quản lý, giảng dạy và học tập".
+- **Layout:** 4 Hộp danh hiệu với các chỉ số ấn tượng 100%.
+
+---
+
+## SLIDE 14 — KẾT QUẢ XUẤT SẮC KỲ THI TỐT NGHIỆP THPT 2026
+
+- **Tiêu đề:** KẾT QUẢ XUẤT SẮC KỲ THI TỐT NGHIỆP THPT 2026
+- **Số liệu thống kê chính thức từ Ban Truyền thông nhà trường (01/07/2026):**
+  - **265 Học sinh Khối 12:** Toàn bộ học sinh khối 12 hoàn thành xuất sắc chương trình giáo dục phổ thông.
+  - **264 Học sinh tham gia dự thi:** 01 học sinh đặc cách miễn thi tốt nghiệp do thuộc thành viên Đội tuyển Olympic Quốc tế.
+  - **14 LƯỢT ĐIỂM 10 TUYỆT ĐỐI:**
+    + Môn Toán: **09 lượt điểm 10** (Khẳng định vị thế áp đảo môn Toán chuyên).
+    + Môn Lịch sử: **03 lượt điểm 10** (Thành tích ấn tượng của khối khoa học xã hội).
+    + Môn Sinh học: **02 lượt điểm 10** (Tiếp nối truyền thống điểm 10 khối Y Dược).
+  - **Tỷ lệ Tốt nghiệp:** Đạt **100%** trọn vẹn.
+- **Hình ảnh đi kèm:** Khung `📷 [Ảnh Thật: Lễ Vinh danh Học sinh Xuất sắc Kỳ thi Tốt nghiệp THPT 2026]`.
+
+---
+
+## SLIDE 15 — ĐIỂM TRUNG BÌNH CÁC MÔN THI THPT 2026 (BAR CHART)
+
+- **Tiêu đề:** ĐIỂM TRUNG BÌNH CÁC MÔN THI THPT 2026 (BAR CHART)
+- **Phân tích phổ điểm bình quân các môn chuyên:**
+  - 💻 **Môn Tin học: 8,64 điểm** — Dẫn đầu toàn trường về điểm trung bình thi tốt nghiệp, khẳng định năng lực số vượt trội.
+  - 📜 **Môn Lịch sử: 8,57 điểm** — Điểm bình quân kỷ lục ở nhóm môn KHXH, minh chứng cho chất lượng giảng dạy môn chuyên lịch sử.
+  - 🧪 **Môn Hóa học: 8,11 điểm** — Điểm số đồng đều, vững vàng trong các môn tự nhiên.
+  - 📐 **Môn Toán: 8,10 điểm** — Kết quả xuất sắc đi kèm 9 bài thi đạt điểm 10 tuyệt đối.
+  - 🧬 **Môn Sinh học: 7,71 điểm** — Nền tảng học thuật vững chắc cho định hướng ngành Y Dược và Công nghệ Sinh học.
+- **Đồ họa minh họa:** Biểu đồ cột ngang (Horizontal Bar Chart) từ thang điểm 0 đến 10 với các thanh màu gradient xanh sang trọng.
+
+---
+
+## SLIDE 16 — VINH DANH HỌC SINH TIÊU BIỂU & THỦ KHOA CÁC KHỐI THI 2026
+
+- **Tiêu đề:** VINH DANH HỌC SINH TIÊU BIỂU & THỦ KHOA CÁC KHỐI THI 2026
+- **Bảng vàng danh dự thủ khoa các tổ hợp xét tuyển Đại học:**
+  - **Khối A00 (Toán – Lý – Hóa):** **Hoàng Minh Dương** (Lớp 12H) — **28,50 điểm** (Thủ khoa điểm số cao nhất toàn trường).
+  - **Khối A01 (Toán – Lý – Anh):** **Trần Hữu Đạt** (12Ti) & **Đinh Quốc Trí** (12A2) — **28,25 điểm** (Đồng điểm cao nhất).
+  - **Khối B00 (Toán – Hóa – Sinh):** **Huỳnh Quốc Đại** (12Si) & **Phạm Thiên Ngân** (12H) — **27,75 điểm** *(Quốc Đại xuất sắc đạt điểm 10 môn Sinh học)*.
+  - **Khối C03 (Toán – Văn – Sử):** **Nguyễn Thị Mai Phương** (12A2) — **27,25 điểm** *(Mai Phương đạt điểm 10 tuyệt đối môn Lịch sử)*.
+  - **Khối D01 (Toán – Văn – Anh):** **Đinh Quốc Trí** (12A2) & **Nguyễn Huỳnh Khánh Ngọc** (12A1) — **27,25 điểm** *(Quốc Trí đạt điểm 10 môn Toán)*.
+  - **Khối D07 (Toán – Hóa – Anh):** **Dương Thị Khánh Ninh** (12T2) — **26,50 điểm**.
+  - **Khối X06 (Toán – Lý – Tin):** **Nguyễn Hữu Đại** (12Ti) & **Nguyễn Mạnh Hùng** (12Ti) — **27,25 điểm** *(Hữu Đại đạt điểm 10 môn Toán)*.
+- **Layout:** Bảng vinh danh 7 dòng tinh tế, có biểu tượng huy chương và làm nổi bật các bạn đạt điểm 10 từng môn.
+
+---
+
+## SLIDE 17 — TỔNG QUAN HỆ THỐNG TUYỂN SINH LỚP 10 CHUYÊN
+
+- **Tiêu đề:** TỔNG QUAN HỆ THỐNG TUYỂN SINH LỚP 10 CHUYÊN
+- **Phương thức tuyển sinh & Quy định xét tuyển:**
+  - **Phương thức Tuyển sinh:** Kết hợp thi tuyển gồm 3 bài thi chung (Toán chung, Ngữ văn chung, Tiếng Anh chung) và 01 bài thi môn Chuyên theo nguyện vọng.
+  - **Công thức Tính điểm Xét tuyển:**
+    $$\text{Điểm Xét Tuyển} = (\text{Điểm Toán} + \text{Điểm Ngữ văn} + \text{Điểm Tiếng Anh}) + (\text{Điểm môn Chuyên} \times 2)$$
+  - **Phân biệt các Thuật ngữ Tuyển sinh then chốt:**
+    + *Chỉ tiêu tuyển sinh:* Số lượng tiếp nhận tối đa do Sở GD&ĐT cấp phép.
+    + *Điểm thi thực tế:* Kết quả điểm số từng bài thi của thí sinh.
+    + *Điểm xét tuyển:* Tổng điểm sau khi nhân hệ số môn chuyên theo công thức trên.
+    + *Điểm chuẩn trúng tuyển:* Mức điểm xét tuyển tối thiểu để đạt điều kiện trúng tuyển vào từng lớp chuyên.
+  - **Cơ quan Thẩm quyền:** Sở Giáo dục và Đào tạo công bố chỉ tiêu và điểm chuẩn chính thức hàng năm.
+
+---
+
+## SLIDE 18 — ĐIỂM CHUẨN TUYỂN SINH NĂM HỌC 2024 – 2025
+
+- **Tiêu đề:** ĐIỂM CHUẨN TUYỂN SINH NĂM HỌC 2024 – 2025
+- **Chi tiết điểm chuẩn trúng tuyển (Công bố ngày 23–24/07/2024):**
+  - **Chuyên Toán: 34,10 điểm** — Điểm chuẩn dẫn đầu các lớp chuyên khối khoa học tự nhiên.
+  - **Chuyên Tiếng Anh: 34,05 điểm** — Điểm số cạnh tranh rất cao ở môn ngoại ngữ.
+  - **Chuyên Lịch sử: 29,85 điểm** — Thuộc nhóm môn Chuyên Lịch sử - Địa lý.
+  - **Các môn chuyên còn lại (Lý, Hóa, Sinh, Tin, Văn, Địa):** Điểm chuẩn dao động linh hoạt trong khoảng từ **29,85 đến 34,05 điểm**.
+  - **Tổng số thí sinh trúng tuyển chính thức:** **315 học sinh**.
+  - **Căn cứ văn bản nguồn:** Báo Bình Dương ngày 23/07/2024 và Cổng thông tin điện tử THPT Chuyên Hùng Vương ngày 24/07/2024.
+
+---
+
+## SLIDE 19 — CHỈ TIÊU VÀ CƠ CẤU LỚP CHUYÊN NĂM HỌC 2024 – 2025
+
+- **Tiêu đề:** CHỈ TIÊU VÀ CƠ CẤU LỚP CHUYÊN NĂM HỌC 2024 – 2025
+- **Cơ cấu 09 Lớp Chuyên năm học 2024–2025:**
+  - **Tổng chỉ tiêu phê duyệt:** Tuyển mới đúng **315 học sinh**.
+  - **Danh sách biên chế 09 lớp chuyên:**
+    + 01 Lớp Chuyên Toán
+    + 01 Lớp Chuyên Toán - Tin học (mô hình lớp ghép Toán và Tin học)
+    + 01 Lớp Chuyên Vật lý
+    + 01 Lớp Chuyên Hóa học
+    + 01 Lớp Chuyên Sinh học
+    + 01 Lớp Chuyên Ngữ văn
+    + 01 Lớp Chuyên Lịch sử - Địa lý (mô hình lớp ghép Lịch sử và Địa lý)
+    + 02 Lớp Chuyên Tiếng Anh
+  - **Đánh giá tổng quan:** Cơ cấu lớp được thiết kế ổn định, bảo đảm sỉ số chuẩn khoảng 35 học sinh/lớp nhằm tối ưu hóa hiệu quả giảng dạy chuyên sâu.
+
+---
+
+## SLIDE 20 — BẢNG ĐIỂM CHUẨN TUYỂN SINH NĂM HỌC 2025 – 2026
+
+- **Tiêu đề:** BẢNG ĐIỂM CHUẨN TUYỂN SINH NĂM HỌC 2025 – 2026
+- **Số liệu điểm chuẩn chính thức (Sở GD&ĐT công bố ngày 28/06/2025):**
+  1. **Chuyên Toán:** **36,45 điểm** (Kỷ lục điểm chuẩn cao nhất toàn trường)
+  2. **Chuyên Hóa học:** **34,55 điểm** (Đứng thứ hai về mức độ cạnh tranh)
+  3. **Chuyên Tiếng Anh:** **34,40 điểm**
+  4. **Chuyên Ngữ văn:** **31,40 điểm**
+  5. **Chuyên Vật lý:** **30,15 điểm**
+  6. **Chuyên Tin học:** **29,45 điểm**
+  7. **Chuyên Sinh học:** **28,475 điểm** (Xác thực điểm xét tuyển đến 3 chữ số thập phân)
+  8. **Chuyên Địa lý:** **26,00 điểm**
+  9. **Chuyên Lịch sử:** **24,30 điểm**
+  - **Tổng thí sinh trúng tuyển toàn trường:** **357 học sinh**.
+- **Đồ họa minh họa:** Biểu đồ cột đứng xếp hạng từ cao xuống thấp (Descending Bar Chart) từ 36.45 xuống 24.30 điểm.
+
+---
+
+## SLIDE 21 — MỞ RỘNG CƠ CẤU 11 LỚP CHUYÊN NĂM HỌC 2025 – 2026
+
+- **Tiêu đề:** MỞ RỘNG CƠ CẤU 11 LỚP CHUYÊN NĂM HỌC 2025 – 2026
+- **Tổng chỉ tiêu & Bước ngoặt cơ cấu lớp chuyên:**
+  - **Tổng số học sinh trúng tuyển:** **357 học sinh** (Tăng mạnh so với 315 học sinh của năm 2024).
+  - **Mở rộng cơ cấu thành 11 Lớp Chuyên độc lập:**
+    + **02 Lớp Chuyên Toán** (Tăng thêm 01 lớp chuyên Toán).
+    + **01 Lớp Chuyên Tin học** *(Được tách riêng hoàn toàn khỏi lớp Toán-Tin năm trước)*.
+    + **01 Lớp Chuyên Vật lý | 01 Lớp Chuyên Hóa học | 01 Lớp Chuyên Sinh học**.
+    + **01 Lớp Chuyên Ngữ văn**.
+    + **01 Lớp Chuyên Lịch sử | 01 Lớp Chuyên Địa lý** *(Được tách riêng thành 2 lớp độc lập thay vì ghép chung)*.
+    + **02 Lớp Chuyên Tiếng Anh**.
+  - **Kế hoạch tuyển sinh bổ sung:** Nhà trường tổ chức thêm kỳ thi tuyển sinh bổ sung cho Lớp 11 chuyên đối với các học sinh có năng lực vượt trội.
+
+---
+
+## SLIDE 22 — KẾ HOẠCH TUYỂN SINH NĂM HỌC 2026 – 2027 (13 LỚP CHUYÊN)
+
+- **Tiêu đề:** KẾ HOẠCH TUYỂN SINH NĂM HỌC 2026 – 2027 (13 LỚP CHUYÊN)
+- **Đột phá quy mô đào tạo & Đề án Tiếng Anh 5695:**
+  - **Căn cứ văn bản pháp lý:** Thông báo chính thức số 233/TB-THPTCHV ngày 20/04/2026 của trường THPT Chuyên Hùng Vương.
+  - **Quy mô mở rộng lên 13 LỚP CHUYÊN:**
+    + **02 Lớp Chuyên Toán**
+    + **03 Lớp Chuyên Tiếng Anh** (Gồm 02 lớp chuyên Anh truyền thống + **01 Lớp Tiếng Anh Đề án 5695**)
+    + **08 Lớp Chuyên cho các môn còn lại:** Mỗi môn 01 lớp gồm Vật lý, Hóa học, Sinh học, Tin học, Ngữ văn, Lịch sử, Địa lý.
+  - **Ý nghĩa Đề án Tiếng Anh 5695:** Đột phá chuẩn hóa kỹ năng ngoại ngữ học thuật, tích hợp chương trình quốc tế nhằm chuẩn bị tốt nhất cho du học và tuyển sinh đại học quốc tế.
+
+---
+
+## SLIDE 23 — THÔNG BÁO ĐIỂM CHUẨN NĂM HỌC 2026 – 2027
+
+- **Tiêu đề:** THÔNG BÁO ĐIỂM CHUẨN NĂM HỌC 2026 – 2027
+- **Xác nhận văn bản & Quy trình nhập học:**
+  - **Thời điểm công bố:** Ngày 19/06/2026.
+  - **Cơ quan ban hành:** Sở Giáo dục và Đào tạo TP. Hồ Chí Minh.
+  - **Văn bản pháp lý đính kèm:** Quyết định / Thông báo điểm chuẩn tuyển sinh vào Lớp 10 Chuyên và Tiếng Anh Đề án 5695 năm học 2026–2027 (File PDF lưu trữ ngày 19/06/2026).
+  - **Quy trình Xác nhận Nhập học:** Thí sinh trúng tuyển thực hiện xác nhận nhập học trực tuyến và hoàn thiện nộp hồ sơ gốc theo Thông báo số 482/TB-THPTCHV ngày 20/06/2026 của trường.
+- **Layout:** Trình bày dạng Thông báo chính thức với các mốc thời gian nộp hồ sơ rõ ràng.
+
+---
+
+## SLIDE 24 — KIỂM CHỨNG DỮ LIỆU & ĐỐI CHIẾU SỐ LIỆU (DATA VERIFICATION)
+
+- **Tiêu đề:** KIỂM CHỨNG DỮ LIỆU & ĐỐI CHIẾU SỐ LIỆU (DATA INTEGRITY)
+- **Nguyên tắc kiểm chứng khoa học:**
+  - **Nguyên tắc trung thực chống bịa đặt số liệu:** Chỉ ghi nhận dữ liệu chính thức khi có văn bản gốc đối chứng từ Sở GD&ĐT hoặc Cổng thông tin nhà trường.
+  - **Phân tích dữ liệu 455 học sinh (Năm 2026):**
+    + Con số ước tính 455 học sinh (13 lớp x 35 HS) từ nguồn thứ cấp (itt.edu.vn) được ghi rõ là "Theo nguồn tham khảo".
+    + Giữ nguyên tắc nghiên cứu nghiêm túc: KHÔNG khẳng định đây là số liệu chỉ tiêu chính thức khi chưa có file PDF văn bản gốc công bố phân bổ chi tiết từng môn.
+  - **Biểu đồ xu hướng mở rộng quy mô 3 năm (2024 – 2026):**
+    + Năm 2024: 09 Lớp chuyên — 315 học sinh trúng tuyển
+    + Năm 2025: 11 Lớp chuyên — 357 học sinh trúng tuyển
+    + Năm 2026: 13 Lớp chuyên — Quy mô ước tính khoảng 455 học sinh
+- **Đồ họa minh họa:** Biểu đồ kết hợp 2 trục (Dual-axis Line & Bar Chart) mô tả đà tăng trưởng số lớp và số học sinh.
+
+---
+
+## SLIDE 25 — MÔI TRƯỜNG HỌC TẬP TÍCH CỰC VÀ VĂN HÓA HỌC THUẬT
+
+- **Tiêu đề:** MÔI TRƯỜNG HỌC TẬP TÍCH CỰC VÀ VĂN HÓA HỌC THUẬT
+- **Các giá trị văn hóa học đường nổi bật:**
+  - **Chương trình "Nhịp cầu ngôn ngữ" (08/02/2026):** Giao lưu văn hóa đa quốc gia, tạo môi trường thực hành phản xạ tiếng Anh tự nhiên.
+  - **Văn hóa Tự học và Nghiên cứu chuyên sâu:** Học sinh được rèn luyện phương pháp đọc tài liệu học thuật, nghiên cứu độc lập, làm việc nhóm và tư duy phản biện.
+  - **Môi trường Kỷ luật & Thân thiện:** Văn hóa ứng xử tôn sư trọng đạo, tôn trọng sự khác biệt của cá nhân và cổ vũ tinh thần học hỏi lẫn nhau.
+  - **Sự đồng hành của Thầy Cô:** Giáo viên không chỉ truyền đạt kiến thức mà còn đóng vai trò người cố vấn (mentor) đồng hành cùng ước mơ của học sinh.
+- **Hình ảnh đi kèm:** Khung `📷 [Ảnh Thật: Học sinh THPT Chuyên Hùng Vương trong chương trình Nhịp cầu ngôn ngữ]`.
+
+---
+
+## SLIDE 26 — HOẠT ĐỘNG NGOẠI KHÓA & DỰ ÁN CỘNG ĐỒNG
+
+- **Tiêu đề:** HOẠT ĐỘNG NGOẠI KHÓA & DỰ ÁN CỘNG ĐỒNG
+- **Các sân chơi lớn và dự án xã hội ý nghĩa:**
+  - 💻 **Đấu trường Lập trình:** Tham gia cuộc thi lập trình *"The EIU Programming Contest Season 1"* (27/09/2024) và *"Hội thi Tin học trẻ"* năm 2026 (14/08/2026).
+  - 🌟 **Dự án Cộng đồng "Seed of Community - Athena":** Dự án thiện nguyện và phát triển kỹ năng xã hội do chính học sinh THPT Chuyên Hùng Vương sáng lập và điều hành.
+  - 🏕️ **Hoạt động Ngoại khóa & Tình nguyện:** Hành trình trải nghiệm *"Thành phố hoa Đà Lạt — Lễ kết nạp Đoàn viên mới"*, chiến dịch *"Tiếp sức mùa thi"* và *"Ngày hội Trải nghiệm Khởi nghiệp"* (KH 37/KH-THPTCHV ngày 20/01/2026).
+  - 🌏 **Giao lưu Quốc tế:** Tham gia chương trình lãnh đạo trẻ *"Asia Youth Leaders Program 2026"* tại Nhật Bản (05/08/2026) và Cuộc thi *"Đại sứ Văn hóa đọc TP. Hồ Chí Minh 2026"* (16/08/2026).
+- **Hình ảnh đi kèm:** Khung `📷 [Ảnh Thật: Hoạt động Ngoại khóa / Dự án Athena / Tiếp sức mùa thi]`.
+
+---
+
+## SLIDE 27 — CẤU TRÚC MÔN HỌC THEO CHƯƠNG TRÌNH GDPT 2018
+
+- **Tiêu đề:** CẤU TRÚC MÔN HỌC THEO CHƯƠNG TRÌNH GDPT 2018
+- **Phân bổ môn học Khối 10 tại trường chuyên (Căn cứ KH 212/KH-THPTCHV):**
+  - **08 MÔN HỌC & HOẠT ĐỘNG BẮT BUỘC:** Ngữ văn, Toán, Ngoại ngữ 1 (Tiếng Anh), Lịch sử, Giáo dục thể chất, Giáo dục quốc phòng và an ninh, Hoạt động trải nghiệm - hướng nghiệp, Nội dung giáo dục địa phương.
+  - **MÔN HỌC LỰA CHỌN (Học sinh chọn 4 môn):** Xây dựng theo 2 định hướng KHTN (Vật lý, Hóa học, Sinh học, Tin học) và KHXH (Lịch sử, Địa lý, Giáo dục kinh tế & pháp luật).
+  - **CỤM CHUYÊN ĐỀ HỌC TẬP TĂNG CƯỜNG:** Mỗi môn chuyên được bố trí 3 cụm chuyên đề chuyên sâu để rèn luyện kỹ năng thi Học sinh giỏi và Đánh giá năng lực.
+  - **QUY ĐỊNH ĐIỀU CHỈNH TỔ HỢP:** Thủ tục điều chỉnh nguyện vọng môn học tự chọn được hướng dẫn minh bạch theo Thông báo số 319/TB-THPTCHV ngày 22/05/2026.
+- **Layout:** Thiết kế 2 Cột song song: Cột bắt buộc và Cột tự chọn / chuyên đề.
+
+---
+
+## SLIDE 28 — ĐỊNH HƯỚNG TỔ HỢP MÔN HỌC VÀ KHỐI THI ĐẠI HỌC
+
+- **Tiêu đề:** ĐỊNH HƯỚNG TỔ HỢP MÔN HỌC VÀ KHỐI THI ĐẠI HỌC
+- **2 Định hướng tổ hợp và khối thi Đại học tương ứng:**
+  - 🔬 **ĐỊNH HƯỚNG KHOA HỌC TỰ NHIÊN (KHTN):**
+    + *Tổ hợp môn:* Chuyên Toán, Vật lý, Hóa học, Sinh học, Tin học kết hợp môn tự chọn Hóa học, Vật lý, Tin học ứng dụng.
+    + *Khối thi Đại học tối ưu:*
+      * **A00:** Toán – Vật lí – Hóa học (Công nghệ, Kỹ thuật, Kinh tế)
+      * **A01:** Toán – Vật lí – Tiếng Anh (CNTT, Kinh doanh quốc tế)
+      * **B00:** Toán – Hóa học – Sinh học (Y khoa, Dược phẩm, Công nghệ sinh học)
+      * **X06:** Toán – Vật lí – Tin học (Khoa học máy tính, AI)
+    + *Điểm nhấn:* Triển khai chuyên đề *"Dạy Toán bằng Tiếng Anh"* (từ 02/10/2026).
+  - 🌍 **ĐỊNH HƯỚNG KH XÃ HỘI & NGOẠI NGỮ (KHXH):**
+    + *Tổ hợp môn:* Chuyên Tiếng Anh, Ngữ văn, Lịch sử, Địa lý kết hợp Tiếng Anh Đề án 5695.
+    + *Khối thi Đại học tối ưu:*
+      * **C03:** Toán – Ngữ văn – Lịch sử (Luật, Báo chí, Quản lý nhà nước)
+      * **D01:** Toán – Ngữ văn – Tiếng Anh (Ngoại giao, Ngoại thương, Truyền thông)
+      * **D07:** Toán – Hóa học – Tiếng Anh (Hóa dược, Kinh tế)
+      * Phương thức xét tuyển kết hợp chứng chỉ quốc tế IELTS/SAT.
+
+---
+
+## SLIDE 29 — KẾT LUẬN VÀ TRÒ CHƠI MINIGAME KHEN THƯỞNG TƯƠNG TÁC
+
+- **Tiêu đề:** KẾT LUẬN VÀ TRÒ CHƠI MINIGAME KHEN THƯỞNG TƯƠNG TÁC
+- **Tổng kết 5 Trụ cột Phát triển 30 năm (1996 – 2026):**
+  1. *Lịch sử 30 năm tự hào:* Nền tảng vững chắc, truyền thống hiếu học vẻ vang.
+  2. *Đội ngũ 92 CBGVNV tận tụy:* Trình độ cao, hạt nhân Đảng 53 đảng viên gương mẫu.
+  3. *Cơ sở vật chất hiện đại:* Phòng thí nghiệm chuẩn, tiên phong giáo dục STEM.
+  4. *Thành tích đỉnh cao:* 100% đỗ Tốt nghiệp & ĐH, 14 lượt điểm 10 kỳ thi THPT 2026.
+  5. *Đào tạo hội nhập:* Mở rộng 13 lớp chuyên, đón đầu GDPT 2018 và Đề án 5695.
+- **🎮 CÂU HỎI TRẮC NGHIỆM MINIGAME TƯƠNG TÁC VỚI CẢ LỚP:**
+  - **Câu 1:** Trường THPT Chuyên Hùng Vương chính thức đi vào hoạt động ngày tháng năm nào?  
+    👉 *Đáp án:* **24/04/1996** (theo QĐ 4757 ngày 23/10/1995).
+  - **Câu 2:** Tại Kỳ thi Tốt nghiệp THPT 2026, trường xuất sắc đạt bao nhiêu lượt điểm 10 tuyệt đối?  
+    👉 *Đáp án:* **14 lượt điểm 10** (09 Toán, 03 Lịch sử, 02 Sinh học).
+  - **Câu 3:** Môn chuyên nào có điểm chuẩn trúng tuyển cao nhất năm học 2025–2026?  
+    👉 *Đáp án:* **Chuyên Toán với 36,45 điểm**.
+  - **Câu 4:** Đơn vị thực hiện bài báo cáo thuyết trình này là nhóm học sinh lớp nào?  
+    👉 *Đáp án:* **Nhóm học sinh Lớp 9A12 (gồm 6 thành viên)**.
+
+---
+
+## SLIDE 30 — LỜI CẢM ƠN & TÀI LIỆU THAM KHẢO CHÍNH THỨC
+
+- **Tiêu đề lớn:** CẢM ƠN THẦY CÔ VÀ CÁC BẠN ĐÃ LẮNG NGHE!
+- **Khẩu hiệu:** TRƯỜNG THPT CHUYÊN HÙNG VƯƠNG — 30 NĂM ƯƠM MẦM TÀI NĂNG (1996 – 2026)
+- **Danh mục 8 Tài liệu Tham khảo & Căn cứ Pháp lý Chính thức:**
+  1. Cổng thông tin điện tử Trường THPT Chuyên Hùng Vương: https://www.thptchv.edu.vn/
+  2. Thông báo Tuyển sinh Lớp 10 năm học 2026–2027: Văn bản 233/TB-THPTCHV ngày 20/04/2026.
+  3. Thông báo Điểm chuẩn trúng tuyển Lớp 10 Chuyên & Tiếng Anh Đề án 5695: Sở GD&ĐT TP.HCM (19/06/2026).
+  4. Quyết định Điểm chuẩn trúng tuyển vào Lớp 10 năm học 2025–2026: Sở GD&ĐT Bình Dương (28/06/2025).
+  5. Công bố Điểm chuẩn Lớp 10 Chuyên Hùng Vương năm học 2024–2025: Báo Bình Dương (23/07/2024).
+  6. Báo cáo Vinh danh Học sinh Xuất sắc Kỳ thi Tốt nghiệp THPT 2026: Ban Truyền thông nhà trường (01/07/2026).
+  7. Kế hoạch Kỷ niệm 30 năm Thành lập Trường: Kế hoạch số 111/KH-THPTCHV ngày 12/03/2026.
+  8. Kế hoạch Biên chế Lớp 10 và Hướng dẫn Môn học Tự chọn: KH 212/KH-THPTCHV & TB 319/TB-THPTCHV.
+- **Thông tin Nhóm Tác giả thực hiện — Lớp 9A12:**
+  - 1. Trần Nguyễn Bảo Linh | 2. Nguyễn Lê Xuân Hương | 3. Hà Kỳ Nhiệm
+  - 4. Nguyễn Hoàng Minh Tuấn | 5. Trần Huỳnh Minh Thư | 6. Đoàn Vương Bảo Ngọc
+
+---
+
+# IV. YÊU CẦU MORPH XUYÊN SUỐT (OBJECT CONTINUITY)
+
+Tất cả các chuỗi Morph chuyển động liên tục phải được cấu hình chính xác:
+- **1 → 2:** Logo/Biểu tượng trường từ Slide 1 co lại mượt mà thành Node trung tâm của Mind Map ở Slide 2 (`!!CenterNode`).
+- **2 → 3:** Nhánh "Giới thiệu & Lịch sử" từ Mind Map phóng to thành đường trục thời gian Timeline của Slide 3.
+- **3 → 4 → 5:** Các mốc son lịch sử trên timeline mở rộng thành các thẻ chi tiết về Quyết định 4757 và Huân chương Lao động.
+- **8 → 9 → 10:** Thẻ số liệu 930 học sinh và 92 CBGVNV di chuyển mượt mà vào Sơ đồ cơ cấu tổ chức bộ máy.
+- **11 → 12:** Khung cơ sở vật chất phóng to vào Không gian sáng chế STEM và Máy phun sát khuẩn.
+- **14 → 15 → 16:** Kết quả 14 điểm 10 chuyển động thành biểu đồ điểm trung bình và mở rộng thành Bảng vinh danh thủ khoa 7 khối thi.
+- **17 → 18 → 19:** Khái niệm tuyển sinh mở rộng thành Bảng điểm chuẩn 2024 và phân bổ 9 lớp chuyên.
+- **20 → 21:** Biểu đồ điểm chuẩn 2025 chuyển hóa thành cơ cấu mở rộng 11 lớp chuyên độc lập.
+- **22 → 23 → 24:** Kế hoạch 13 lớp chuyên 2026 kết nối vào Điểm chuẩn 2026 và Biểu đồ kiểm chứng dữ liệu 3 năm.
+- **25 → 26:** Môi trường học tập chuyển hóa thành các hoạt động ngoại khóa, Dự án Athena và giao lưu Nhật Bản.
+- **27 → 28:** Chương trình GDPT 2018 phân nhánh thành Ma trận tổ hợp môn KHTN và KHXH.
+- **29 → 30:** 5 Trụ cột phát triển kết hợp minigame trở về logo trung tâm trường và trang cảm ơn kết thúc.
+
+---
+
+# V. HỆ THỐNG THIẾT KẾ & TYPOGRAPHY
+
+- Font chữ: Sans-serif hiện đại (Aptos, Arial, Montserrat, Inter).
+- Kích thước phân cấp:
+  + Tiêu đề Slide chính: 28 – 36 pt (In hoa, Đậm).
+  + Tiêu đề mục / Nhánh: 18 – 22 pt (Đậm).
+  + Nội dung chi tiết: 13 – 16 pt (Dễ đọc, khoảng cách dòng thoáng).
+  + Thẻ số liệu Big Numbers: 36 – 54 pt (Extra Bold, màu nhấn Cyan/Gold).
+
+---
+
+# VI. QUY TẮC CHỐNG BỊA ĐẶT DỮ LIỆU (ANTI-HALLUCINATION)
+
+- Tuyệt đối tuân thủ 100% dữ liệu có trong nguồn: Số học sinh 930, số giáo viên 92, 53 đảng viên, 14 điểm 10 kỳ thi tốt nghiệp 2026, đúng họ tên và lớp của từng thủ khoa, đúng từng con số điểm chuẩn qua các năm.
+- Con số 455 học sinh chỉ tiêu 2026 phải luôn đi kèm ghi chú phân tích kiểm chứng dữ liệu.
