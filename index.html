@@ -242,8 +242,11 @@
     }
 
     /* Mobile & Touch Optimizations */
-    html, body {
-      overflow-x: hidden;
+    html {
+      scroll-behavior: smooth;
+    }
+    body {
+      overflow-x: clip;
       width: 100%;
       -webkit-tap-highlight-color: transparent;
     }
@@ -318,7 +321,7 @@
     }
   </style>
 </head>
-<body class="bg-slate-50 text-slate-800 antialiased selection:bg-amber-200 font-body">
+<body class="bg-slate-50 text-slate-800 antialiased selection:bg-amber-200 font-body pt-16">
 
   <!-- Ambient Cursor Spotlight Follower -->
   <div id="ambient-spotlight"></div>
@@ -331,11 +334,10 @@
     <img id="lightbox-img" src="" alt="">
   </div>
 
-  <!-- Scroll Progress Bar -->
-  <div id="scroll-progress" class="fixed top-0 left-0 h-1 bg-gradient-to-r from-royal-500 via-gold-500 to-navy-900 z-[60] transition-all duration-100" style="width:0%"></div>
-
-  <!-- Sticky Navbar -->
-  <header id="navbar" class="sticky top-0 z-50 glassmorphism shadow-sm">
+  <!-- Fixed Top Navbar with Attached Scroll Progress Bar -->
+  <header id="navbar" class="fixed top-0 left-0 right-0 z-50 glassmorphism shadow-sm">
+    <!-- Scroll Progress Bar -->
+    <div id="scroll-progress" class="absolute bottom-0 left-0 h-[3px] bg-gradient-to-r from-royal-500 via-gold-500 to-navy-900 transition-all duration-100" style="width:0%"></div>
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
       <div class="flex items-center space-x-3 cursor-pointer group" onclick="celebrateAnniversary(); window.scrollTo({top:0,behavior:'smooth'});" title="Nhấp để chúc mừng 30 năm thành lập trường!">
         <img src="images/logo.png" alt="Logo THPT Chuyên Hùng Vương" class="logo-img w-11 h-11 rounded-xl object-contain shadow-md bg-white p-0.5 border border-slate-200 float-slow group-hover:scale-110 transition-transform" style="width:44px; height:44px; max-width:44px; max-height:44px; object-fit:contain;">
@@ -1532,11 +1534,16 @@
 
     // ========== SCROLL PROGRESS & BACK TO TOP ==========
     window.addEventListener('scroll', () => {
-      const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      const winScroll = window.scrollY || document.documentElement.scrollTop;
       const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      document.getElementById('scroll-progress').style.width = (winScroll / height * 100) + '%';
+      const progress = document.getElementById('scroll-progress');
+      if (progress && height > 0) {
+        progress.style.width = Math.min(100, Math.max(0, (winScroll / height * 100))) + '%';
+      }
       const btn = document.getElementById('back-to-top');
-      btn.classList.toggle('show', winScroll > 400);
+      if (btn) {
+        btn.classList.toggle('show', winScroll > 250);
+      }
     }, { passive: true });
 
     // ========== AMBIENT SPOTLIGHT FOLLOWER ==========
